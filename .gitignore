@@ -1,0 +1,19 @@
+# Ignore all DLL files
+*.dll
+*.a 
+
+# Ignore object and executable files
+*.o
+*.exe
+
+# Ignore other build artifacts
+build/
+
+SFML/
+.vscode/
+.vscode/
+.vscode/
+match_three.code-workspace
+main.o
+main - Copy.cpp
+game-normal
