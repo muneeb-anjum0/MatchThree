@@ -1,7 +1,4 @@
-# Match-Three Game
-![Game Preview](image.png)
 
----
 # Match-Three Game
 ![alt text](image.png)
 
