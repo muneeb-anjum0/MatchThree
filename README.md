@@ -16,18 +16,6 @@
 
 ---
 
-## Download and Play
-
-For most users, the easiest way to play is to download the pre-packaged zip:
-
-- [⬇️ Download Match-3 Download.zip](https://github.com/muneeb-anjum0/Match-Three/raw/master/Match-3%20Download.zip)
-	- Extract and run `game-normal.exe` inside the folder.
-
-Alternatively, you can download just the executable:
-
-- [⬇️ Download game-normal.exe](https://github.com/muneeb-anjum0/Match-Three/raw/master/game-normal.exe)
-	- Make sure all DLLs and the `assets/` folder are present in the same directory.
-
 ## Table of Contents
 
 - [Quick Start](#-quick-start)
