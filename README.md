@@ -6,7 +6,7 @@
 ## 🚀 Quick Start
 
 1. **Download the Game:**
-	- [⬇️ Download Match-3 Download.zip](https://github.com/muneeb-anjum0/Match-Three/raw/master/Match-3%20Download.zip)
+	- Download Match-3 Download.zip
 2. **Extract the Zip:**
 	- Right-click the downloaded zip and select **Extract All...**
 3. **Run the Game:**
@@ -201,13 +201,6 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 - **SFML**: [https://www.sfml-dev.org/](https://www.sfml-dev.org/)
 - **Music & Sound Effects**: Various open-source and chiptune sources (see `assets/audio/`)
 - **Fonts**: Digitalt font (see `assets/font/`)
-
----
-
-## Screenshot
-
-![Game Screenshot](assets/images/game_screenshot_placeholder.png)
-*Add your game screenshot here!*
 
 ---
 
