@@ -28,19 +28,6 @@
 - [License](#license)
 
 ---
-## Build & Run Instructions (For Developers)
-
-If you want to build the game from source or modify the code:
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies & Libraries](#technologies--libraries)
-- [Project Structure](#project-structure)
-- [Build & Run Instructions](#build--run-instructions)
-- [Assets](#assets)
-- [License](#license)
-
----
 
 ## Overview
 
